@@ -6,7 +6,7 @@ namespace Generic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Generic program master branch");
+            Console.WriteLine(MaxNumber.FindMax(70, 80, 90));
         }
     }
 }
