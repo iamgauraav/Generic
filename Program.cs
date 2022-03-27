@@ -6,7 +6,7 @@ namespace Generic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(MaxNumber.FindMax(70, 80, 90));
+            Console.WriteLine(MaxNumber.FindMax(5.75F, 5.76F, 5.77F));
         }
     }
 }
